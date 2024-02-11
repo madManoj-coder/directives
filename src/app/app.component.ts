@@ -7,4 +7,11 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'directive';
+
+  
 }
+
+
+// Q)  what is the difference between Components and Directives
+// ==> Directives are of three types Component directive, Structural directive, Attribute directive
+//     Component is the only directive who has its own HTML/template.
